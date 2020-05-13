@@ -1,4 +1,4 @@
-#Fluent Guard#
+#Fluent Guard is awesome!#
 
 Fluent Guard is a validation framework with a fluent interface. It's meant to be quick and easy to validate multiple properties on a model with as little code as possible.
 
